@@ -4,7 +4,7 @@ import { Pagination } from 'swiper';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 
-// Import Swiper styles
+// Import Swiper 
 
 import 'swiper/css';
 import 'swiper/css/navigation';
@@ -16,24 +16,24 @@ const Testimonials = () => {
   const testimonials = [
     {
       id: 1,
-      link: 'https://www.linkedin.com/in/uzairali19/',
+      link: 'https://www.linkedin.com/in/joanne-barker-8046b757/',
       name: 'Joanne Barrker',
       role: 'Full-Stack Web Developer. JavaScript | Rails | React | Redux.',
-      test: 'As a developer and a problem solver, I think Meri is a great collaborative partner to have. I met Meri in some basic javascript & react projects and since then she has drastically progressed in her understanding of the development process. She always has a professional environment and has good audio and video quality which makes it easier to communicate with her.',
+      test: 'Andrew learns new skills quickly and enjoys working with a group to get things done',
     },
     {
       id: 2,
-      link: 'https://www.linkedin.com/in/yishak-wesego/',
-      name: 'Yishak Wesego',
-      role: 'Full-stack developer | Technical Support Engineer at Microverse',
-      test: "It was a pleasure collaborating with Meri on different projects. One of the things that I think is special about her is that she never settles, even after completing the projects she finds other resources and strengthens her knowledge. Collaborating with her is easy and comfortable, it's like working with someone you've known for a long period of time.",
+      link: 'https://www.linkedin.com/in/andrew-cryer-b863a723b/',
+      name: 'Goggles Pizanno',
+      role: 'Race Car driver from the Flinstones',
+      test: "Seems like a good guy but he isnt much of a stone age racecar driver",
     },
     {
       id: 3,
-      link: 'https://www.linkedin.com/in/akuu-khan/',
-      name: 'akbar (Aku) Khan',
-      role: 'Full Stack Developer| Ruby on Rails | PostgreSQL | JavaScript | React | Redux | Html&Css | Python.',
-      test: 'I worked with Meri in the same team and her communication skills are very strong. Her programming skill is one of the bests, given the time frame in the field. She is a good team player.  She will probably fit in most of the companies not only because she\'s a good team worker, but also because she has very good skills and I know she has much more potential to be shown.',
+      link: 'https://www.linkedin.com/in/andrew-cryer-b863a723b/',
+      name: 'Pickles Macgruber',
+      role: 'Pickle Sommelier',
+      test: 'Good guy! Likes pickles',
     },
 
 

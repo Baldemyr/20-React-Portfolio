@@ -1,10 +1,10 @@
 import React from 'react';
 import IMG1 from '../../assets/Event-Finder.png';
-import IMG2 from '../../assets/todo.png';
-import IMG3 from '../../assets/shelter.png';
-import IMG4 from '../../assets/fake.png';
-import IMG5 from '../../assets/news.png';
-import IMG6 from '../../assets/math.png';
+import IMG2 from '../../assets/4-Code-Quiz.png';
+import IMG3 from '../../assets/Day_Scheduler.png';
+import IMG4 from '../../assets/14tech.png';
+import IMG5 from '../../assets/Greenify.png';
+import IMG6 from '../../assets/Coming_Soon.png';
 
 
 import './portfolio.css';
@@ -20,38 +20,38 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      title: 'FakeStore',
+      title: 'Tech Blog',
       img: IMG4,
-      link: 'https://benbasic.github.io/Toronto-Event-Finder/',
-      github: 'https://github.com/Baldemyr/20-React-Portfolio.git',
+      link: 'https://techblog14homework.herokuapp.com/',
+      github: 'https://github.com/Baldemyr/14-MVC-Blog.git',
     },
     {
       id: 3,
-      title: 'To-Do-App',
+      title: 'Web API Code Quiz',
       img: IMG2,
-      link: 'https://benbasic.github.io/Toronto-Event-Finder/',
-      github: 'https://github.com/Baldemyr/20-React-Portfolio.git',
+      link: 'https://baldemyr.github.io/4-Web-API-Code-Quiz/',
+      github: 'https://github.com/Baldemyr/4-Web-API-Code-Quiz.git',
     },
     {
       id: 4,
-      title: 'Shelter',
+      title: 'Day Scheduler',
       img: IMG3,
-      link: 'https://meri-mg.github.io/shelter/pages/main/index.html',
-      github: 'https://github.com/Baldemyr/20-React-Portfolio.git',
+      link: 'https://baldemyr.github.io/5-Work-Day-Scheduler/',
+      github: 'https://github.com/Baldemyr/5-Work-Day-Scheduler.git',
     },
     {
       id: 5,
-      title: 'World News',
+      title: 'Greenify Your WOrld',
       img: IMG5,
-      link: 'https://meri-mg.github.io/Unilab-world-news/',
-      github: 'https://github.com/Meri-MG/Unilab-world-news',
+      link: 'https://greenifywiki.herokuapp.com/',
+      github: 'https://github.com/JamesF905/greenify.git',
     },
     {
       id: 6,
-      title: 'Math Resource',
+      title: 'Movie FInder',
       img: IMG6,
-      link: 'https://lukinoo.github.io/math-resource/',
-      github: 'https://github.com/lukinoo/math-resource',
+      link: 'none',
+      github: 'https://github.com/Baldemyr/Movie-Finder-App.git',
     },
   ];
   
